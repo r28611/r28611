@@ -1,6 +1,6 @@
 ### Welcome! 🪄
 
-👩‍💻 I'm Margo and currently working as an iOS developer at 9292.nl 
+👩‍💻 I'm Margo and currently working as an iOS developer at <a href="https://www.9292.nl"> <img src="https://www.9292.nl/static/images/layout/9292logo.svg" alt="Logo" width="30" height="30">
 
 I post projects completed during my Software development education and other personal projects here.</br>
 _Technology I use:_
